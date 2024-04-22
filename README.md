@@ -1,16 +1,45 @@
-### Hi there 👋
+<h1 align="center">Hola!, Soy Carlos <img src=
+"https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!--
-**Carlos-MKR/Carlos-MKR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
-Here are some ideas to get you started:
+### 👨🏻‍💻 &nbsp;Acerca de mi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 &nbsp;Me gusta estar constantemente aprendiendo nuevas tecnologías.\
+🎓 &nbsp;Estudié Ingeniería en Software y Sistemas Computacionales.\
+📚 &nbsp;Además de mi formación académica, busco constantemente oportunidades para seguir aprendiendo y mejorando mis habilidades.\
+🌱 &nbsp;Me apasiona explorar y aplicar nuevas técnicas y metodologías en el desarrollo de software.\
+🔙 &nbsp;Disfruto trabajando en el desarrollo del backend y la implementación de la lógica de las aplicaciones.\
+🎮 &nbsp;Fuera del ámbito tecnológico, disfruto de actividades como la producción musical y jugar videojuegos.\
+
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+<!-- ### 🛠 &nbsp;Tech Stack -->
+
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tecnologias</b>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+  </a>
+</p>
+
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Carlos-MKR&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Carlos-MKR&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+### 🤝🏻 &nbsp;Contacto
+
+<div align="center">
+  
+| [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauro_brant-1/) | [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brantlauro/) | [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/brantlauro) | [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produtor.brantlauro@gmail.com) |
+  
+</div>
+
