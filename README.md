@@ -8,10 +8,10 @@
 
 <img width="30%" align="right" alt="Github" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmxiMjd3djN2MnU2MG12ZmM0c2h6NDcyYnNjaTZlejFxZGp4Z3NqaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 💡 &nbsp;Nunca dejando de aprender nuevas tecmologias 💪\
-- 📚 &nbsp;Además de mi formación académica (Ingeniería en Software y Sistemas Computacionales), busco constantemente oportunidades para seguir mejorando mis habilidades y aplicar nuevas técnicas y metodologías en el desarrollo de software.\
-- 🔙 &nbsp;Disfruto trabajando en el desarrollo del backend y la implementación de la lógica de las aplicaciones.\
-- 🎮 &nbsp;Fuera del ámbito tecnológico, disfruto de actividades como la producción musical y jugar videojuegos.\
+- 💡 &nbsp;Nunca dejando de aprender nuevas tecmologias. 💪
+- 📚 &nbsp;Además de mi formación académica (Ingeniería en Software y Sistemas Computacionales), busco constantemente oportunidades para seguir mejorando mis habilidades y aplicar nuevas técnicas y metodologías en el desarrollo de software.
+- 🔙 &nbsp;Disfruto trabajando en el desarrollo del backend y la implementación de la lógica de las aplicaciones.
+- 🎮 &nbsp;Fuera del ámbito tecnológico, disfruto de actividades como la producción musical y jugar videojuegos.
 
 
 
