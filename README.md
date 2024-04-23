@@ -11,6 +11,8 @@
 🎮 &nbsp;Fuera del ámbito tecnológico, disfruto de actividades como la producción musical y jugar videojuegos.\
 
 
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tecnologias</b>
+
 <div style="overflow: auto;">
     <div style="float: left; width: 60%;">
         <!-- <a href="https://skillicons.dev">
