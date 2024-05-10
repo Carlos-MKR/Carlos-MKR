@@ -6,7 +6,7 @@
 
 <img width="30%" align="right" alt="Github" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmxiMjd3djN2MnU2MG12ZmM0c2h6NDcyYnNjaTZlejFxZGp4Z3NqaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 💡 Aprendiendo 📚
+💡 Aprendiendo 📚
 <div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
     <a href="#">
       <img src="https://simpleskill.icons.workers.dev/svg?i=docker,mongodb,postgresql,laravel,livewire,digitalocean&perline=14" />
