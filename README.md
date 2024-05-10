@@ -1,18 +1,17 @@
 <h1 align="center">Hola!, Soy Carlos <img src=
 "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
-
 ### 👨🏻‍💻 &nbsp;Acerca de mi
 
 
 <img width="30%" align="right" alt="Github" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmxiMjd3djN2MnU2MG12ZmM0c2h6NDcyYnNjaTZlejFxZGp4Z3NqaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 💡 &nbsp;Nunca dejando de aprender nuevas tecmologias. 💪
-- 📚 &nbsp;Además de mi formación académica (Ingeniería en Software y Sistemas Computacionales), busco constantemente oportunidades para seguir mejorando mis habilidades y aplicar nuevas técnicas y metodologías en el desarrollo de software.
-- 🔙 &nbsp;Disfruto trabajando en el desarrollo del backend y la implementación de la lógica de las aplicaciones.
-- 🎮 &nbsp;Fuera del ámbito tecnológico, disfruto de actividades como la producción musical y jugar videojuegos.
-
+- 💡 Aprendiendo 📚
+<div>
+    <a href="#">
+      <img src="https://simpleskill.icons.workers.dev/svg?i=docker,mongodb,postgresql,laravel,livewire,digitalocean&perline=14" />
+    </a>
+</div>
 
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tecnologias</b>
@@ -20,15 +19,14 @@
 
 <div>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,cs&perline=14" /> <br>
+        <img src="https://simpleskill.icons.workers.dev/svg?i=html5,css3,bootstrap,javascript,php,csharp&perline=14" /> <br>
     </a>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=mysql&perline=14" />
-        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968409.png" width="48"/><br>
+        <img src="https://simpleskill.icons.workers.dev/svg?i=mysql,microsoftsqlserver&perline=14" /> <br>
     </a>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,npm" />
-        <img src="https://cdn-icons-png.flaticon.com/512/919/919840.png" width="50"/>
+        <img src="https://www.spec-india.com/wp-content/uploads/2023/05/winforms-logo.png" width="50"/>
+        <img src="https://simpleskill.icons.workers.dev/svg?i=git,github,visualstudiocode,visualstudio,npm,composer&perline=14" /> <br>
     </a>
 </div>
   
