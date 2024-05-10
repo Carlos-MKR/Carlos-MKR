@@ -7,17 +7,18 @@
 <img width="30%" align="right" alt="Github" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmxiMjd3djN2MnU2MG12ZmM0c2h6NDcyYnNjaTZlejFxZGp4Z3NqaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 - 💡 Aprendiendo 📚
-<div>
+<div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
     <a href="#">
       <img src="https://simpleskill.icons.workers.dev/svg?i=docker,mongodb,postgresql,laravel,livewire,digitalocean&perline=14" />
     </a>
 </div>
 
 
+
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tecnologias</b>
 
 
-<div>
+<div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
     <a href="https://skillicons.dev">
         <img src="https://simpleskill.icons.workers.dev/svg?i=html5,css3,bootstrap,javascript,php,csharp&perline=14" /> <br>
     </a>
