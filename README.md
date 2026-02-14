@@ -1,52 +1,66 @@
-<h1 align="center">Hola!, Soy Carlos <img src=
-"https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align="center">
+    <h1 align="center">Carlos Saavedra</h1>
+    <p align="center">(Mankar)</p>
+  <p><strong>Desarrollador Fullstack | Backend Enthusiast</strong></p>
 
-### 👨🏻‍💻 
-
-
-<img width="30%" align="right" alt="Github" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmxiMjd3djN2MnU2MG12ZmM0c2h6NDcyYnNjaTZlejFxZGp4Z3NqaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-💡 Aprendiendo 📚
-<div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
-    <a href="#">
-      <img src="https://simpleskill.icons.workers.dev/svg?i=docker,mongodb,postgresql,laravel,livewire,digitalocean&perline=14" />
-    </a>
+  <div>
+    <img src="https://img.shields.io/github/followers/Carlos-MKR?label=Follow&style=social" />
+    <img src="https://img.shields.io/badge/Main-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  </div>
 </div>
 
+---
 
+<h2 align="center">Stack</h2>
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tecnologias</b>
+#### Frontend
 
-
-<div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
-    <a href="https://skillicons.dev">
-        <img src="https://simpleskill.icons.workers.dev/svg?i=html5,css3,bootstrap,javascript,php,csharp&perline=14" /> <br>
-    </a>
-    <a href="https://skillicons.dev">
-        <img src="https://simpleskill.icons.workers.dev/svg?i=mysql,microsoftsqlserver&perline=14" /> <br>
-    </a>
-    <a href="https://skillicons.dev">
-        <img src="https://www.spec-india.com/wp-content/uploads/2023/05/winforms-logo.png" width="50"/>
-        <img src="https://simpleskill.icons.workers.dev/svg?i=git,github,visualstudiocode,visualstudio,npm,composer&perline=14" /> <br>
-    </a>
-</div>
-  
-
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/Carlos-MKR">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Carlos-MKR&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Carlos-MKR&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50"/>          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="50"/>          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50"/>          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50" height="50"/>          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="50" height="50"/>          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/alpinejs/alpinejs-original.svg" width="50" height="50"/>          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50"/>          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="50" height="50"/>          
 </p>
 
-### 🤝🏻 &nbsp;Contacto
+#### Backend
 
-<div align="center">
-  
-| [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-saavedra-dev/) | [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mankar.cs/) | [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produtor.saavedracarlos0066@gmail.com) |
-  
-</div>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="50" height="50"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="50" height="50"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original.svg" width="50" height="50"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50" height="50"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inertiajs/inertiajs-original.svg" width="50" height="50"/>  
+</p>
 
+#### Base de Datos
+
+<p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" height="50"/>  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="50"/>  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="50" height="50"/>  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="50" height="50"/>  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" width="50" height="50"/>   
+</p>
+
+#### Herramientas
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" width="50" height="50"/>   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original.svg" width="50" height="50"/>   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50"/>   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50"/>   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" height="50"/>   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50" height="50"/>   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="50" height="50"/>   
+   
+</p>
+
+---
+
+## Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos_saavedra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/carlos-saavedra-dev) [![Web](https://img.shields.io/badge/Web-Carlos.Dev-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://carlos.domcloud.dev/) [![Gmail](https://img.shields.io/badge/Gmail-saavedracarlos0066@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:saavedracarlos0066@gmail.com) [![YouTube](https://img.shields.io/badge/YouTube-Mankar-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@Mankar_Dev) [![Discord](https://img.shields.io/badge/Discord-mankar-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://.mankar.com/discord) [![Instagram](https://img.shields.io/badge/Instagram-@mankar-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/mankar.cs)
